@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
