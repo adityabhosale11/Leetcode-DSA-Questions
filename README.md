@@ -104,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
