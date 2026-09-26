@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
