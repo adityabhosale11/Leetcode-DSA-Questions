@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0507-perfect-number) |
 ## Prefix Sum
 |  |
@@ -149,4 +151,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
