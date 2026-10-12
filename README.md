@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0118-pascals-triangle) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
