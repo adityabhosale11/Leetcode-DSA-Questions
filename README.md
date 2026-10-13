@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
 ## String
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
