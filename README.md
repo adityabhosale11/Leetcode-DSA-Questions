@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
+| [1920-build-array-from-permutation](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
