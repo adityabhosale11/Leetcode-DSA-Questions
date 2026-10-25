@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1920-build-array-from-permutation) |
