@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0344-reverse-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
