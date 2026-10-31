@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
