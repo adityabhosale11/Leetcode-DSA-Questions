@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1672-richest-customer-wealth) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
