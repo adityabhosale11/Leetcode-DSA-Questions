@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
