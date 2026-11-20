@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
