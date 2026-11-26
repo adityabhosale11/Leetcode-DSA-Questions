@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0242-valid-anagram) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0383-ransom-note) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
