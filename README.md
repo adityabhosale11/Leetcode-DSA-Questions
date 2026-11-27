@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityabhosale11/Leetcode-DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
